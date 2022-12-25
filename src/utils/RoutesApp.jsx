@@ -8,8 +8,8 @@ function RoutesApp() {
     return (
         <HashRouter>
             <Routes>
-                <Route path="/" element={<Request/>} />
-                <Route path="/req" element={<Home/>} />
+                <Route path="/home" element={<Home/>} />
+                <Route path="/req" element={<Request/>} />
             </Routes>
         </HashRouter>
     )
