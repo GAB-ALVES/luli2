@@ -8,7 +8,7 @@ function RoutesApp() {
     return (
         <HashRouter>
             <Routes>
-                <Route path="/home" element={<Home/>} />
+                <Route path="*" element={<Home/>} />
                 <Route path="/req" element={<Request/>} />
             </Routes>
         </HashRouter>

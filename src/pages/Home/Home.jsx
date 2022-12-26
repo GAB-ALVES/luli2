@@ -1,7 +1,10 @@
+import NavBar from "../../components/NavBar/NavBar"
+
 function Home() {
     return (
         <div className='Home'>
-            hello word!!
+            <NavBar/>
+            hello word!!!!
         </div>
     )
 }
