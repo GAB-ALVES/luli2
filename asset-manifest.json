@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/luli2/static/css/main.a2410c56.css",
-    "main.js": "/luli2/static/js/main.ba725617.js",
+    "main.css": "/luli2/static/css/main.afac2c32.css",
+    "main.js": "/luli2/static/js/main.1a73d83f.js",
+    "static/media/Banner.svg": "/luli2/static/media/Banner.8da1d08f9fcb4312bdb79170a072c67c.svg",
     "static/media/morse.wav": "/luli2/static/media/morse.b6ef9012469dba81d2b4.wav",
     "index.html": "/luli2/index.html",
-    "main.a2410c56.css.map": "/luli2/static/css/main.a2410c56.css.map",
-    "main.ba725617.js.map": "/luli2/static/js/main.ba725617.js.map"
+    "main.afac2c32.css.map": "/luli2/static/css/main.afac2c32.css.map",
+    "main.1a73d83f.js.map": "/luli2/static/js/main.1a73d83f.js.map"
   },
   "entrypoints": [
-    "static/css/main.a2410c56.css",
-    "static/js/main.ba725617.js"
+    "static/css/main.afac2c32.css",
+    "static/js/main.1a73d83f.js"
   ]
 }
