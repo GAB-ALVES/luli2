@@ -1,16 +1,13 @@
 import './Moments.scss'
-import { CardActionArea, Typography } from "@mui/material"
+import { Typography } from "@mui/material"
 import testeImg from '../../../utils/media/imgs/penguin.jpeg'
+import { CardComponent } from '../../../components/CardComponent/CardComponent'
 
 function Moments() {
 
     const Card = (imgSrc) => {
         return (
-            <div className="Image">
-                    <CardActionArea style={{width: '100%', height: '100%'}}>
-                        <img src={imgSrc} alt="someImg"/>
-                    </CardActionArea>
-            </div>
+            <CardComponent imgSrc={imgSrc} />
         )
     } 
 
