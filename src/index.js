@@ -16,6 +16,9 @@ const theme = createTheme({
       main: '#FFD3D3',
     },
   },
+  typography: {
+    fontFamily: ''
+  }
 });
 
 root.render(
