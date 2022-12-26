@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/luli2/static/css/main.afac2c32.css",
-    "main.js": "/luli2/static/js/main.1a73d83f.js",
+    "main.css": "/luli2/static/css/main.401c6b9f.css",
+    "main.js": "/luli2/static/js/main.d861852e.js",
     "static/media/Banner.svg": "/luli2/static/media/Banner.8da1d08f9fcb4312bdb79170a072c67c.svg",
     "static/media/morse.wav": "/luli2/static/media/morse.b6ef9012469dba81d2b4.wav",
     "index.html": "/luli2/index.html",
-    "main.afac2c32.css.map": "/luli2/static/css/main.afac2c32.css.map",
-    "main.1a73d83f.js.map": "/luli2/static/js/main.1a73d83f.js.map"
+    "static/media/footer.svg": "/luli2/static/media/footer.9e2035a91d26bea87e3ff80fcbd6435a.svg",
+    "main.401c6b9f.css.map": "/luli2/static/css/main.401c6b9f.css.map",
+    "main.d861852e.js.map": "/luli2/static/js/main.d861852e.js.map"
   },
   "entrypoints": [
-    "static/css/main.afac2c32.css",
-    "static/js/main.1a73d83f.js"
+    "static/css/main.401c6b9f.css",
+    "static/js/main.d861852e.js"
   ]
 }
