@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/luli2/static/css/main.999e917c.css",
-    "main.js": "/luli2/static/js/main.1a43862c.js",
+    "main.js": "/luli2/static/js/main.438a940f.js",
     "static/media/Banner.svg": "/luli2/static/media/Banner.8da1d08f9fcb4312bdb79170a072c67c.svg",
     "static/media/morse.wav": "/luli2/static/media/morse.b6ef9012469dba81d2b4.wav",
     "index.html": "/luli2/index.html",
@@ -9,10 +9,10 @@
     "static/media/Vector6.svg": "/luli2/static/media/Vector6.4310ba2046c6de60d6728bb51db5fedb.svg",
     "static/media/footer.svg": "/luli2/static/media/footer.9e2035a91d26bea87e3ff80fcbd6435a.svg",
     "main.999e917c.css.map": "/luli2/static/css/main.999e917c.css.map",
-    "main.1a43862c.js.map": "/luli2/static/js/main.1a43862c.js.map"
+    "main.438a940f.js.map": "/luli2/static/js/main.438a940f.js.map"
   },
   "entrypoints": [
     "static/css/main.999e917c.css",
-    "static/js/main.1a43862c.js"
+    "static/js/main.438a940f.js"
   ]
 }
