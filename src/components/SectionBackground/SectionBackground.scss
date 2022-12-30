@@ -1,0 +1,9 @@
+.SectionBackground {
+    position: relative;
+
+    img {
+        position: absolute;
+        z-index: -2;
+        top: 0;
+    }
+}

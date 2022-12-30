@@ -12,7 +12,7 @@ function Moments() {
     } 
 
     return (
-        <div className='Moments'>
+        <div className='Moments Section'>
             <Typography variant='h2' marginBottom='30px'>
                 Moments
             </Typography>
